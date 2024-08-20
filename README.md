@@ -1,1 +1,1 @@
-![Repositories]('reputation-sys-repos.excalidraw.svg')
+![Repositories](reputation-sys-repos.excalidraw.svg)
